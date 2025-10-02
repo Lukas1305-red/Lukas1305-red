@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hey there 👋<br>I’m Lukas and currently pursuing my Master’s degree in Computer Science at TUM where I put my focus on following areas:<br><br>🤖 Machine Learning and AI<br>💊 Digital Biology and Medicine<br>💻 Software Engineering<br><br>Besides that, I’m working as a working student at Avelios Medical as an iOS Engineer 📱<br><br>I love developing software in a mobile context and I have high interest in applying different concepts of Computer Science in the domain of medicine and sports.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dzn3qbzlxossrskscatbezu0o&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+# 🎧 Currently listening to...
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dzn3qbzlxossrskscatbezu0o&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas1305-red&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
